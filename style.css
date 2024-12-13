@@ -47,7 +47,7 @@ span {
 .tab-content {
     background-color: #E2E5E7;
     width: 85%;
-    display:
+    display: inline-block;
 }
 
 .tab {
